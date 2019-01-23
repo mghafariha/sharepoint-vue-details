@@ -1,0 +1,32 @@
+.require .master-title:before {
+    color: white !important;
+}
+
+.field-border {
+    font-weight: 100;
+    border: 1px solid #d8dce5;
+    background: #49b4ba0d;
+    border-radius: 4px;
+    padding-right: 8px;
+}
+
+.master-item-display div {
+    min-height: 34px;
+}
+
+.button-div {
+    width: 100%;
+    text-align: center;
+}
+
+.detail-col-2.el-col.el-col-24 {
+    width: auto !important;
+}
+
+.approve-field {
+    margin: 10px 0px;
+}
+
+.approve-comment {
+    margin: 45px 0px 10px;
+}
